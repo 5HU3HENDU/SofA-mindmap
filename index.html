@@ -59,7 +59,7 @@
         // --- THIS IS THE CRITICAL STEP ---
         // Fetch the content of `mindmap.md`. This MUST be served from a web server (like GitHub Pages).
         // It will fail if you open `index.html` as a local file.
-        const response = await fetch('mindmap');
+        const response = await fetch('mindmap.md');
 
         // If the file can't be found (e.g., a typo in the name), throw an error.
         if (!response.ok) {
