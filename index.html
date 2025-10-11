@@ -11,13 +11,12 @@
       width: 100%;
       height: 100%;
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-      background-color: #f9fafb; /* A slightly softer background */
+      background-color: #f9fafb;
     }
     #mindmap {
       width: 100%;
       height: 100%;
     }
-    /* This is the box that shows messages like "Loading..." or "Error" */
     #message-box {
       position: absolute;
       top: 50%;
@@ -35,10 +34,7 @@
   </style>
 </head>
 <body>
-  <!-- The SVG element where the mindmap will be rendered -->
   <svg id="mindmap"></svg>
-  
-  <!-- The message box for user feedback -->
   <div id="message-box">Loading Mindmap...</div>
 
   <!-- The required JavaScript libraries for the mindmap -->
@@ -46,53 +42,39 @@
   <script src="https://cdn.jsdelivr.net/npm/markmap-view@0.15.4"></script>
 
   <script>
-    // We wrap our code in an "async" function to use the `await` keyword,
-    // which makes handling asynchronous operations like `fetch` much cleaner.
-    (async () => {
-      // Get the mindmap components from the global `markmap` object loaded by the script tags above
-      const { Transformer } = markmap;
-      const { Markmap, loadCSS, loadJS } = markmap;
+    // This function will run once the page is fully loaded
+    document.addEventListener('DOMContentLoaded', async () => {
+      // **THE FIX IS HERE:** We now access all components directly from the global 'window.markmap' object.
+      // This is the modern, correct way to initialize the library.
+      const { Transformer, Markmap, loadCSS, loadJS } = window.markmap;
 
       const messageBox = document.getElementById('message-box');
       
       try {
-        // --- THIS IS THE CRITICAL STEP ---
-        // Fetch the content of `mindmap.md`. This MUST be served from a web server (like GitHub Pages).
-        // It will fail if you open `index.html` as a local file.
-        const response = await fetch('mindmap.md');
-
-        // If the file can't be found (e.g., a typo in the name), throw an error.
+        const response = await fetch('mindmap');
         if (!response.ok) {
-            throw new Error(`The mindmap.md file could not be found. Status: ${response.status}`);
+            throw new Error(`The mindmap.md file could not be found (Status: ${response.status})`);
         }
         
-        // Get the text content from the response
         const markdownContent = await response.text();
-
-        // Process the Markdown text into a mindmap data structure
         const transformer = new Transformer();
         const { root, features } = transformer.transform(markdownContent);
         
-        // Load any extra assets if needed (e.g., for math equations)
         const { styles, scripts } = transformer.getUsedAssets(features);
         if (styles) loadCSS(styles);
         if (scripts) loadJS(scripts, { getMarkmap: () => Markmap });
         
-        // If everything is successful, hide the message box
         messageBox.style.display = 'none';
-
-        // Finally, create and render the mindmap!
         Markmap.create('#mindmap', null, root);
 
       } catch (error) {
-        // If any step in the `try` block fails, this `catch` block will run.
         console.error('Error:', error);
         messageBox.innerHTML = `
           <strong>Error: Could not load the mindmap.</strong><br>
           <small>${error.message}</small>
         `;
       }
-    })();
+    });
   </script>
 </body>
 </html>
