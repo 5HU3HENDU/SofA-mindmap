@@ -5,77 +5,97 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>School of Adults | An Interactive Mindmap</title>
   <style>
+    /* Basic styling to make the mindmap fill the page */
     body, html {
       margin: 0;
       padding: 0;
       width: 100%;
       height: 100%;
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-      background-color: #f9fafb;
+      overflow: hidden; /* Prevent extra scrollbars */
     }
-    #mindmap {
+    /* The container for the mindmap needs to fill the screen */
+    .markmap {
       width: 100%;
       height: 100%;
-    }
-    #message-box {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      font-size: 1.2rem;
-      color: #374151;
-      background-color: #ffffff;
-      padding: 25px 35px;
-      border-radius: 12px;
-      box-shadow: 0 8px 25px rgba(0,0,0,0.1);
-      text-align: center;
-      transition: opacity 0.3s ease;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     }
   </style>
 </head>
 <body>
-  <svg id="mindmap"></svg>
-  <div id="message-box">Loading Mindmap...</div>
 
-  <!-- The required JavaScript libraries for the mindmap -->
-  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
-  <script src="https://cdn.jsdelivr.net/npm/markmap-view@0.15.4"></script>
+<!-- 
+  SECTION 1: THE MINDMAP CONTAINER
+  The special "autoloader" script (at the bottom) will automatically find this <div>.
+  The magic is that your Markdown content now lives inside this div, within a special script tag.
+-->
+<div class="markmap">
+<script type="text/template">
+---
+markmap:
+  colorFreezeLevel: 2
+  initialExpandLevel: 1
+---
 
-  <script>
-    // This function will run once the page is fully loaded
-    document.addEventListener('DOMContentLoaded', async () => {
-      // **THE FIX IS HERE:** We now access all components directly from the global 'window.markmap' object.
-      // This is the modern, correct way to initialize the library.
-      const { Transformer, Markmap, loadCSS, loadJS } = window.markmap;
+# 🎓 School of Adults
 
-      const messageBox = document.getElementById('message-box');
-      
-      try {
-        const response = await fetch('mindmap');
-        if (!response.ok) {
-            throw new Error(`The mindmap.md file could not be found (Status: ${response.status})`);
-        }
-        
-        const markdownContent = await response.text();
-        const transformer = new Transformer();
-        const { root, features } = transformer.transform(markdownContent);
-        
-        const { styles, scripts } = transformer.getUsedAssets(features);
-        if (styles) loadCSS(styles);
-        if (scripts) loadJS(scripts, { getMarkmap: () => Markmap });
-        
-        messageBox.style.display = 'none';
-        Markmap.create('#mindmap', null, root);
+## 💰 Personal Finance
+- **Creating a Budget**
+  - **🌐 Websites & Resources**
+    - [You Need A Budget (YNAB)](https://www.youneedabudget.com/)
+    - [Mint by Intuit](https://mint.intuit.com/)
+  - **✅ Things To Do**
+    - Track every expense for one month.
+    - Use the 50/30/20 Rule for guidance.
+    - Automate your savings transfers.
+  - **❌ Things To Avoid**
+    - Being too strict and unrealistic.
+    - Forgetting irregular expenses (car maintenance, etc.).
+    - Giving up after one mistake.
+- **Investing Basics**
+  - **🌐 Websites & Resources**
+    - [Investopedia](https://www.investopedia.com/)
+    - [Vanguard](https://investor.vanguard.com/education)
+  - **✅ Things To Do**
+    - Understand stocks vs. bonds.
+    - Learn about low-cost index funds.
+  - **❌ Things To Avoid**
+    - Trying to 'time the market'.
+    - Panicking during a downturn.
 
-      } catch (error) {
-        console.error('Error:', error);
-        messageBox.innerHTML = `
-          <strong>Error: Could not load the mindmap.</strong><br>
-          <small>${error.message}</small>
-        `;
-      }
-    });
-  </script>
+## 👔 Career Development
+- **Writing a Resume**
+  - **🌐 Websites & Resources**
+    - [Zety Resume Builder](https://zety.com/)
+    - [Harvard's Resume Guide (.pdf)](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
+  - **✅ Things To Do**
+    - Use strong action verbs.
+    - Tailor it for each job application.
+  - **❌ Things To Avoid**
+    - Typos and grammatical errors.
+    - A generic, one-size-fits-all resume.
+- **Interview Skills**
+  - **🌐 Websites & Resources**
+      - [Big Interview Platform](https://biginterview.com/)
+      - [Glassdoor Interview Questions](https://www.glassdoor.com/Interview/index.htm)
+  - **✅ Things To Do**
+      - Research the company and role.
+      - Prepare answers for common questions.
+      - Have questions to ask the interviewer.
+  - **❌ Things To Avoid**
+      - Speaking negatively about past employers.
+      - Forgetting to send a thank-you note.
+
+</script>
+</div>
+
+<!-- 
+  SECTION 2: THE MAGIC SCRIPT
+  This single line of code is the "autoloader". It is specifically designed to handle
+  everything automatically. It will find the .markmap div above, read the content from
+  the special script tag, and render the mindmap. This avoids all previous errors.
+-->
+<script src="https://cdn.jsdelivr.net/npm/markmap-autoloader@0.15.4"></script>
+
 </body>
 </html>
 
