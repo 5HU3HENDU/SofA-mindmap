@@ -5,15 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>School of Adults | An Interactive Mindmap</title>
   <style>
-    /* Basic styling to make the mindmap fill the page */
     body, html {
       margin: 0;
       padding: 0;
       width: 100%;
       height: 100%;
-      overflow: hidden; /* Prevent extra scrollbars */
+      overflow: hidden;
     }
-    /* The container for the mindmap needs to fill the screen */
     .markmap {
       width: 100%;
       height: 100%;
@@ -24,16 +22,14 @@
 <body>
 
 <!-- 
-  SECTION 1: THE MINDMAP CONTAINER
-  The special "autoloader" script (at the bottom) will automatically find this <div>.
-  The magic is that your Markdown content now lives inside this div, within a special script tag.
+  SECTION 1: YOUR MINDMAP CONTENT
+  You still only need to edit the Markdown inside this script tag.
 -->
 <div class="markmap">
 <script type="text/template">
 ---
 markmap:
   colorFreezeLevel: 2
-  initialExpandLevel: 1
 ---
 
 # 🎓 School of Adults
@@ -41,16 +37,14 @@ markmap:
 ## 💰 Personal Finance
 - **Creating a Budget**
   - **🌐 Websites & Resources**
-    - [You Need A Budget (YNAB)](https://www.youneedabudget.com/)
+    - [You Need A Budget (YNAB)](https://www.youneedabget.com/)
     - [Mint by Intuit](https://mint.intuit.com/)
   - **✅ Things To Do**
     - Track every expense for one month.
     - Use the 50/30/20 Rule for guidance.
-    - Automate your savings transfers.
   - **❌ Things To Avoid**
     - Being too strict and unrealistic.
-    - Forgetting irregular expenses (car maintenance, etc.).
-    - Giving up after one mistake.
+    - Forgetting irregular expenses.
 - **Investing Basics**
   - **🌐 Websites & Resources**
     - [Investopedia](https://www.investopedia.com/)
@@ -80,7 +74,6 @@ markmap:
   - **✅ Things To Do**
       - Research the company and role.
       - Prepare answers for common questions.
-      - Have questions to ask the interviewer.
   - **❌ Things To Avoid**
       - Speaking negatively about past employers.
       - Forgetting to send a thank-you note.
@@ -89,10 +82,30 @@ markmap:
 </div>
 
 <!-- 
-  SECTION 2: THE MAGIC SCRIPT
-  This single line of code is the "autoloader". It is specifically designed to handle
-  everything automatically. It will find the .markmap div above, read the content from
-  the special script tag, and render the mindmap. This avoids all previous errors.
+  SECTION 2: THE RESPONSIVE CONFIGURATION SCRIPT
+  This tiny script runs BEFORE the main mindmap script. It sets the correct options
+  based on the screen size. This is the most reliable way to do this.
+-->
+<script>
+  // This is a global configuration object that the autoloader will automatically find and use.
+  window.markmap = {
+    options: {
+      // If the screen width is less than 768px (mobile), start with nodes collapsed. Otherwise, expand them.
+      initialExpandLevel: window.innerWidth < 768 ? 0 : 2,
+
+      // Make the layout more compact on mobile screens
+      spacingHorizontal: window.innerWidth < 768 ? 60 : 80,
+      
+      // Use slightly smaller text on mobile to improve readability
+      fontSize: window.innerWidth < 768 ? 13 : 16,
+    },
+  };
+</script>
+
+<!-- 
+  SECTION 3: THE AUTOLOADER SCRIPT
+  This is the robust script from two versions ago that reliably draws the mindmap.
+  It will now use the mobile-friendly options we defined above.
 -->
 <script src="https://cdn.jsdelivr.net/npm/markmap-autoloader@0.15.4"></script>
 
