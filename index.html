@@ -1,115 +1,39 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>School of Adults | An Interactive Mindmap</title>
-  <style>
-    body, html {
-      margin: 0;
-      padding: 0;
-      width: 100%;
-      height: 100%;
-      overflow: hidden;
-    }
-    .markmap {
-      width: 100%;
-      height: 100%;
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markmap</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        .markmap {
+            width: 100vw;
+            height: 100vh;
+        }
+        .markmap > svg {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
 </head>
 <body>
+    <div class="markmap">
+        <script type="text/template"></script>
+    </div>
 
-<!-- 
-  SECTION 1: YOUR MINDMAP CONTENT
-  You still only need to edit the Markdown inside this script tag.
--->
-<div class="markmap">
-<script type="text/template">
----
-markmap:
-  colorFreezeLevel: 2
----
+    <script>
+        const GITHUB_URL = 'https://raw.githubusercontent.com/5HU3HENDU/rough/refs/heads/main/sofa-v2/data.md';
+        
+        fetch(GITHUB_URL)
+            .then(res => res.text())
+            .then(markdown => {
+                document.querySelector('script[type="text/template"]').textContent = markdown;
+            });
+    </script>
 
-# 🎓 School of Adults
-
-## 💰 Personal Finance
-- **Creating a Budget**
-  - **🌐 Websites & Resources**
-    - [You Need A Budget (YNAB)](https://www.youneedabget.com/)
-    - [Mint by Intuit](https://mint.intuit.com/)
-  - **✅ Things To Do**
-    - Track every expense for one month.
-    - Use the 50/30/20 Rule for guidance.
-  - **❌ Things To Avoid**
-    - Being too strict and unrealistic.
-    - Forgetting irregular expenses.
-- **Investing Basics**
-  - **🌐 Websites & Resources**
-    - [Investopedia](https://www.investopedia.com/)
-    - [Vanguard](https://investor.vanguard.com/education)
-  - **✅ Things To Do**
-    - Understand stocks vs. bonds.
-    - Learn about low-cost index funds.
-  - **❌ Things To Avoid**
-    - Trying to 'time the market'.
-    - Panicking during a downturn.
-
-## 👔 Career Development
-- **Writing a Resume**
-  - **🌐 Websites & Resources**
-    - [Zety Resume Builder](https://zety.com/)
-    - [Harvard's Resume Guide (.pdf)](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
-  - **✅ Things To Do**
-    - Use strong action verbs.
-    - Tailor it for each job application.
-  - **❌ Things To Avoid**
-    - Typos and grammatical errors.
-    - A generic, one-size-fits-all resume.
-- **Interview Skills**
-  - **🌐 Websites & Resources**
-      - [Big Interview Platform](https://biginterview.com/)
-      - [Glassdoor Interview Questions](https://www.glassdoor.com/Interview/index.htm)
-  - **✅ Things To Do**
-      - Research the company and role.
-      - Prepare answers for common questions.
-  - **❌ Things To Avoid**
-      - Speaking negatively about past employers.
-      - Forgetting to send a thank-you note.
-
-</script>
-</div>
-
-<!-- 
-  SECTION 2: THE RESPONSIVE CONFIGURATION SCRIPT
-  This tiny script runs BEFORE the main mindmap script. It sets the correct options
-  based on the screen size. This is the most reliable way to do this.
--->
-<script>
-  // This is a global configuration object that the autoloader will automatically find and use.
-  window.markmap = {
-    options: {
-      // If the screen width is less than 768px (mobile), start with nodes collapsed. Otherwise, expand them.
-      initialExpandLevel: window.innerWidth < 768 ? 0 : 2,
-
-      // Make the layout more compact on mobile screens
-      spacingHorizontal: window.innerWidth < 768 ? 60 : 80,
-      
-      // Use slightly smaller text on mobile to improve readability
-      fontSize: window.innerWidth < 768 ? 13 : 16,
-    },
-  };
-</script>
-
-<!-- 
-  SECTION 3: THE AUTOLOADER SCRIPT
-  This is the robust script from two versions ago that reliably draws the mindmap.
-  It will now use the mobile-friendly options we defined above.
--->
-<script src="https://cdn.jsdelivr.net/npm/markmap-autoloader@0.15.4"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/markmap-autoloader@latest"></script>
 </body>
 </html>
-
-
