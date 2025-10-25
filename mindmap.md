@@ -148,7 +148,98 @@ markmap:
 - **Managing Utilities**
   - **Summary**: Handling electricity, water, and internet bills.
 
-## Health & Wellness <!-- markmap: fold -->
+## Health & Wellness
+- **Emergency**
+  - [Call an ambulance - 102](tel:102)
+  - [Hospitals Near Me](https://www.google.com/maps/search/hospitals+near+me/)
+- **Medical Help**
+  - [Healthcare Chat Bot](https://www.meetaugust.ai/)
+  - [Talk to a doctor - online](https://www.apollo247.com/specialties)
+- **Health Insurance**
+  - [Ditto Insurance](https://joinditto.in/)
+  - [Beshak Insurance](https://www.beshak.org/)
+- **Early Health Signs to Watch Out For**
+  - Unexplained weight loss or gain
+  - Persistent fatigue or lack of energy
+  - Changes in appetite or eating habits
+  - Chronic pain or discomfort
+  - Difficulty sleeping or changes in sleep patterns
+  - Mood swings or sudden changes in emotions
+  - Persistent cough or sore throat
+  - Frequent headaches or migraines
+  - Digestive issues or changes in bowel movements
+  - Skin changes or unusual moles
+- **Things to Avoid**
+  - Excessive smoking
+  - Excessive alcohol consumption
+  - Sedentary lifestyle
+  - Poor diet high in processed foods
+  - Lack of sleep
+  - Stress
+  - Excessive sugar intake
+  - Not staying hydrated
+  - Ignoring regular exercise
+  - Neglecting mental health
+- **Top Reasons of Death**
+  - Cardiovascular diseases
+  - Cancer
+  - Respiratory diseases
+  - Lower respiratory infections
+  - Alzheimer's disease and other dementias
+  - Diabetes mellitus
+  - Kidney diseases
+  - Liver diseases
+  - Digestive diseases
+  - Accidents (unintentional injuries)
+- **Medicines to Keep at Home**
+  - Headache
+  - Fever
+  - Stomach Pain
+  - Indigestion
+  - First Aid Kit
+  - Cough
+- **Body Parts**
+  - Eyes
+    - Rinse eyes with cold water, use drinking water to clean eyes.
+    - Try to maintain a sleep schedule of at least 7 hours.
+    - Reduce screen time or use [blue screen glasses](https://www.lenskart.com/eyeglasses/collections/all-computer-glasses.html).
+  - Ear, Nose & Throat
+    - [A Guide on maintaining ENT health](https://www.medanta.org/patient-education-blog/a-detailed-guide-on-maintaining-optimal-ent-health-in-2024)
+  - Teeth
+    - Always brush twice a day. 
+    - Use [mouthwash](https://www.amazon.in/Mouthwash/b?ie=UTF8&node=1374636031) only for spicy or onion-heavy diet.
+    - Get a full oral health exam every 6-12 months.
+    - Use stainless steel tongue scraper for removing bacteria, toxins from tongue.
+    - To level-up oral hygiene use [smart brushes](https://www.amazon.in/stores/Oral-BToothbrush/page/368C51AC-6B7A-46EE-8567-46D5EF418614) with pressure sensors and timers
+  - Digestive System
+    - Always complement your meals with curd, buttermilk, jeera water or ajwain.
+- **Health Checkup**
+  - ToDo
+    - Frequent health screening/check-ups are mandatory.
+    - Always get tested at NABL/ISO certified Diagnostic Labs.
+    - Don't trust a package blindly, instead ask yourself (Which of these tests add real clinical value for someone my age/gender/history)?
+    - Always push for free Doctor consultation or clinical interpretation in labs where you got tested.
+    - use Ayushman Bharat/ABHA ID to store reports digitally.
+    - Get a routine check-up once or twice a year.
+  - Screening Checklists
+    - **0-10 year olds**: Vision, hearing, Vaccinations(per IAP schedue), dental checkups
+    - **Teen and Young Adults**: CBC(Complete Blood Count), Lipid profile, Thyroid Total( T3, T4, TSH), Vitamin D and B12, BMI. 
+    - **Adults(30+)**: Blood Sugar(FBS, HbA1c), Lipid Profile, LFT, RFT, ECG, Pap smear(Cervical cancer), Breast exam, BMI.
+    - **Seniors(60+)**: ECG+TMT, PSA(Men), Mammogram(Women), Bone Density, Colon Cancer Screening, Cognitive screening(Dementia,MCI), health,weight: BMI monitoring.
+    - **Universal tests**: Blood Pressure,BMI, Dental check-ups, HIV/Hepatitis B & C, Vaccines(Covid-19,Tetanus,etc)
+  - Home Sample Collection Services
+    - [Thyrocare](https://www.thyrocare.com/)
+    - [SRL Diagnostics](https://srldiagnostics.in/)
+    - [Tata 1mg](https://www.1mg.com/labs?)
+    - [Apollo](https://www.apollohomecare.com/home-visit/)
+  - Full Body Health Packages
+    - [Fortis Healthcare](https://www.fortishealthcare.com/health-check-packages)
+    - [Redcliffe Labs Essential Health](https://redcliffelabs.com/cms-lp/vital-screening-package-lite?network=g&campaignid=21192701230&adgroupid=160746592963&keyword=redcliffe+labs&matchtype=b&creative=696646889002&feeditemid=&device=c&targetid=kwd-1385641867435&adposition=&source=googleads&Location=9182923&gad_source=1&gad_campaignid=21192701230&gbraid=0AAAAABYFFzBzd9ZwcowH0mZbVJRvZhRbb&gclid=Cj0KCQjwjJrCBhCXARIsAI5x66VxFSQEU_7R9CU0B6MJUtmkqC6jA44C1HK7VlGufaChUcZctbU_sWEaAkqpEALw_wcB&wpsrc=Google+Organic+Search)
+    - [Thyrocare Aarogyam](https://emailer.thyrocare.com/DM_landing_page/DM_Emailer.aspx?val=UFJPSjEwNTQyNTQsUFJPSjEwNTQyNTYsUFJPSjEwNTQyNTcsUFJPSjEwNTQyNTgsUFJPSjEwNTQyNTksUFJPSjEwNTQyNjAsUFJPSjEwNTQyNjEsUFJPSjEwNTQyNjM=&dQsQa_code=7774834721&gad_source=1&gad_campaignid=21475695119&gbraid=0AAAAADM2NvE7wBH6a8oexZj52yMYgY22h&gclid=Cj0KCQjwjJrCBhCXARIsAI5x66VhBt3iYCQdNKb4MaY0qumqebuImI5sMNTH2gxToCGR8xclFuXJwXsaAlx-EALw_wcB)
+    - [Apollo Master Health Checkup](https://www.apollohospitals.com/region/bangalore/health-checkup-packages/)
+    - [Max Healthcare](https://www.maxhealthcare.in/preventive-health-plans#)
+- Exercise
+
 - **Mental Health**
   - **Summary**: Prioritizing your mental well-being.
 - **Physical Fitness**
@@ -230,7 +321,7 @@ markmap:
 - **Songs**
   - [AI-Powered Song Finder and Playlist Generator ](https://songslikex.com/)
 
-## Fashion
+## Fashion <!-- markmap: fold -->
 - Men
   - [Your Personal Fashion Assistant](https://heyalle.com/)
   - Fashion Hacks
@@ -257,7 +348,6 @@ markmap:
     - [H&M India](https://www2.hm.com/en_in/men/new-arrivals/view-all.html)
     - [Ajio](https://www.ajio.com/shop/men)
     - [Thesouledstore](https://www.thesouledstore.com/men)
-
 - Women
   - [Your Personal Fashion Assistant](https://heyalle.com/)
   - Fashion Hacks
