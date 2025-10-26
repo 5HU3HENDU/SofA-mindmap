@@ -148,7 +148,7 @@ markmap:
 - **Managing Utilities**
   - **Summary**: Handling electricity, water, and internet bills.
 
-## Health & Wellness
+## Health & Wellness <!-- markmap: fold -->
 - **Emergency**
   - [Call an ambulance - 102](tel:102)
   - [Hospitals Near Me](https://www.google.com/maps/search/hospitals+near+me/)
@@ -239,7 +239,101 @@ markmap:
     - [Apollo Master Health Checkup](https://www.apollohospitals.com/region/bangalore/health-checkup-packages/)
     - [Max Healthcare](https://www.maxhealthcare.in/preventive-health-plans#)
 - Exercise
-
+  - ToDo
+    - Walking 
+    - Running
+    - Swimming
+    - [Yoga](https://pocketyoga.com/pose/)
+    - [Gym](https://musclewiki.com/)
+    - Outdoor Sports such as Cricket, Football, Tennis, etc.
+    - Zumba
+    - [Meditation](https://www.mindful.org/how-to-meditate/)
+    - [At-home exercises](https://www.healthline.com/health/fitness-exercise/at-home-workouts#intermediate-routine)
+  - Movement for Desk jobs
+    - If your office is nearby, try walking to and from work.
+    - Install a [standing desk converter](https://www.ikea.com/in/en/cat/standing-desks-55008/).
+    - Use stairs always.
+    - Take small breaks every 40 minutes(set timer) and do some stretching exercises: neck rolls, shoulder shrugs and wrist stretches. 
+  - Mentally stimulating exercises
+    - Crosswords & sudoku
+    - [Chess](https://www.chess.com/)
+    - Reading
+    - Drawing
+    - Doodling
+    - [Zen Tangling](https://zentangle.com/pages/about)
+  - Sports and Exercise Products
+    - [Decathlon](https://www.decathlon.in/)
+    - [Sportsjam](https://sportsjam.in/)
+    - [Cosco](https://www.cosco.in/)
+    - [Powermax](https://www.powermaxfitness.net/?srsltid=AfmBOopNwy1BIpWY_-Kcwuch8PmqubrCBZUoEbc8-gU9ehTOiD-n9T2_)
+- **Air, Water & Food**
+  - Air
+    - Use breathable mask whenever possible
+    - Get an Air Purifier
+  - Water
+    - [Know your water](https://www.peore.in/blogs/all-blogs/know-your-water-a-complete-guide-to-drinking-water-quality)
+    - Drink at least 4-5 litre of water everyday
+    - Buy a water purifier if needed
+    - Sometimes, if possible, you can also order Bisleri at home
+  - Food
+    - Diet Plan
+    - Home cooked foods
+    - Fruits
+    - Dry Fruits
+- **Mental Health**
+  - ToDo
+    - Digital Detox
+    - Meditation
+    - Hobbies
+    - Art of Relaxing
+  - Helpful Resources
+    - [Here to help](https://learn.appleservices.apple/here-to-help-en-in)
+    - [MPower](https://mpowerminds.com/)
+    - [Lotus Therapist](https://lotustherapist.com/)
+    - [Stutz](https://g.co/kgs/ctjv2Dn)
+    - [NIMHANS](https://www.nimhans.ac.in/)
+- **Periods**
+  - Period Essentials
+    - Sanitary Pads
+    - Tampons
+    - Menstrual Cups
+    - Period Panties
+    - Reusable cloth Pads
+  - Trusted Period Brands
+    - [Whisper](https://whisper.co.in/en-in/sanitary-pads)
+    - [Sofy](https://www.sofy.in/products/)
+    - [Plush](https://www.plushforher.com/collections/shop-all)
+    - [Sirona](https://thesirona.com/collections/period-care)
+    - [Stayfree](https://www.stayfree.in/products)
+    - [Pee Safe](https://www.peesafe.com/collections/menstrual-care)
+    - [Carmesi](https://mycarmesi.com/collections/period-care)
+    - [Nua](https://nuawoman.com/sanitary-pads)
+    - [Niine](https://www.niine.com/)
+  - Period Pain Relief
+    - Hot water bags
+    - Cramp roll-ons: Peesafe feminine, Nua, Sirona roll ons
+    - Meftal Spas
+    - Dark Chocolate
+    - Fruits: Bananas, Pomegranates, berries, Water-rich fruits, Papayas
+    - Herbal Teas: Ginger tea, Chamomile tea, Shatavari, Red raspberry and Ashoka tea.
+    - Yoga Poses: Balasana(Child Pose), Uttanasana(Forward bend), Baddha Konasana, Shavasana.
+  - Apps For Tracking
+    - [Clue](https://helloclue.com/)
+    - [Flo](https://flo.health/)
+    - [Maya](https://www.maya.live/eng.html)
+    - [Euki](https://eukiapp.org/)
+  - Educational Resources
+    - [Menstrupedia](https://www.menstrupedia.com/quickguide/girls)
+    - [OHSU](https://www.ohsu.edu/sites/default/files/2024-05/Period%20Education%20Guide%20Full%20final.pdf)
+    - [Period](https://period.org/)
+    - [UNICEF Menstrual Hygiene](https://www.unicef.org/media/91346/file/unicef-guide-menstrual-hygiene-materials-2019.pdf)
+  - Support & Awareness Groups
+    - [Sachhi Saheli](https://sachhisaheli.org/)
+    - [Boondh](https://boondh.co/)
+    - [Goonj](https://goonj.org/category/health/)
+    - [Menstrupedia](https://www.menstrupedia.com/)
+    - [Project Baala](https://projectbaala.com/)
+    - [Pinkishe](https://www.pinkishe.org/)
 - **Mental Health**
   - **Summary**: Prioritizing your mental well-being.
 - **Physical Fitness**
@@ -250,6 +344,78 @@ markmap:
   - **Summary**: Improving the quality of your sleep.
 - **Navigating Healthcare**
   - **Summary**: Finding doctors and understanding insurance.
+ 
+## Home Management
+- **Living Room**
+- **Bedroom**
+  - Decluttering
+    - Keep a laundry basket in the bedroom to avoid piling up of clothes on the the bed or a chair.
+    - Use a drawer organizer to divide chargers, medicines, undergarments and socks. 
+    - Keep a tray or small box for keys, watch, wallet, and ID on the bedside table.
+    - Water bottle/glass next to the bed.
+    - Torch or emergency lights near the bed.
+    - If space is tight, under-bed storage is a helpful option for storing seasonal items or extra stuffs.
+    - Wash bedsheets weekly  and rotate between 3-4 sets.
+  - Bedroom setup
+    - Design your room using  [IKEA Kreativ](https://www.ikea.com/in/en/home-design/dashboard/).
+  - Bedroom Needs
+    - Use soft [warm LED bulbs](https://www.amazon.in/LED-Bulbs-Warm-White-Light/s?rh=n%3A4205458031%2Cp_n_feature_four_browse-bin%3A9956284031) for lamps or wall lights.
+    - Use a [humidifier](https://www.amazon.in/Humidifiers/b?ie=UTF8&node=5403407031) to add moisture in the room. Use in dry season(winter)/AC to avoid dry throat, skin or sinus issues.
+    - Use [Air purifiers](https://praan.io/hive/) with HEPA filters to remove pollution(dust, pet dander, pollen, etc).
+    - [Bedroom plants](https://www.ugaoo.com/collections/bedroom?srsltid=AfmBOor4hO-X0rQ_qAHq62I5pdN83lGLsxX3Rwtr833CfJfKJ98m-iyK)
+  - Stores
+    - [IKEA](https://www.ikea.com/in/en/rooms/bedroom/)
+    - [Sleepyhead](https://mysleepyhead.com/)
+  
+- **Kitchen**
+  - Must-haves
+    - Pressure cooker, Kadhai, tava, saucepan
+    - Big knife, Small knife, vegetable peeler, Chopping board
+    - Spoons, Tongs, Ladles
+    - Mixer-Grinder, Mortar and pestle, Mixing bowl
+    - Transparent Storage containers with labels on them.
+    - [Create a Functional Kitchen](https://www.cooksmarts.com/cooking-guides/create-a-functional-kitchen/20-must-have-kitchen-tools/)
+  - Pantry Essentials
+    - [cooksmarts](https://www.cooksmarts.com/cooking-guides/create-a-functional-kitchen/pantry-essentials/)
+  - Grocery Shopping
+    - Use grocery apps for noting down things to buy, by adding them into cart.
+    - For shared grocery list with roommates and family, one can use google keep with checklists.
+    - Buy in lesser amount, buy frequently.
+  - Recipe Helpers
+    - [Indian recipe finder](https://recipes.ankanroy.in/)
+    - [The Curry Guy](https://greatcurryrecipes.net/category/indian-recipes/)
+    - [Dassana's veg recipes](https://www.vegrecipesofindia.com/recipes/)
+  - Smart Cooking
+    - [Masala Lab](https://masalalab.in/)
+
+- **Washrooms**
+  - Bathroom Hacks
+    - If space is tight, use a towel ladder or towel rail instead of hooks.
+    - Keep one big bin with a lid.
+    - To keep mold away and to reduce mineral buildup, spray white vinegar or sprinkle baking soda with salt in corners of the bathroom.
+    - Keep a diffuser with lemon + eucalyptus oil to kill foul smell.
+    - Stick or place naphthalene balls or camphor in corners to repel bugs.
+    - Bathroom must always be equipped with a floor wiper, bucket, mug, disinfectant, drain uncloggger and a liquid handwash.
+    - Items for personal hygiene(Shampoo, soap, bodywash, facewash, razor) can always be kept separately in a wash bag to organize stuff effectively.
+  - Bathroom Needs
+    - [Geyser](https://www.vijaysales.com/c/geysers-and-water-heaters)
+    - [Exhaust Fans](https://www.crompton.co.in/collections/exhaust-fans)
+    - Mirrors
+    - [Cabinets](https://www.ikea.com/in/en/cat/bathroom-products-ba001/)
+  - House Services
+    - [Urban Company- bathroom cleaning](https://www.urbancompany.com/near-me/bathroom-cleaning-services-near-me)
+    - [NoBroker](https://www.nobroker.in/bathroom-cleaning-services-in-mumbai?isExperimental=true&sub_category=BATHROOM_CLEANING_SUBSCRIPTION_FORTNIGHTLY_6_MONTH&nbFr=hsSearch&)
+    - [Safaiwale](https://safaiwale.in/bathroom-cleaning-services/)
+  - Stores
+    - [Hindware](https://hindware.com/)
+    - [Homecentre](https://www.homecentre.in/in/en/search?q=bathroom)
+    - [IKEA](https://www.ikea.com/in/en/cat/bathroom-products-ba001/)
+    - [Urban Ladder](https://www.urbanladder.com/products/search?utf8=%E2%9C%93&keywords=bathroom)
+- **Garden**
+  - Stores
+    - [Ugaoo](https://www.ugaoo.com/)
+    - [Nurserylive](https://nurserylive.com/)
+    - [Amazon India](https://www.amazon.in/s/ref=mega_sv_s23_8_1_1_1?rh=i%3Alawngarden%2Cn%3A3638775031&ie=UTF8&bbn=2454176031)
 
 ## Government & Legal <!-- markmap: fold -->
 - **Aadhaar & PAN**
