@@ -95,58 +95,7 @@ markmap:
     - Leave gracefully.
     - Also, you can interview for more opportunities parallelly, given you already have one offer.
     - Now you can be demanding and see where things might go.
-- **Résumé Writing**
-  - **Summary**: Crafting a compelling résumé.
-- **Interview Skills**
-  - **Summary**: Nailing your job interviews.
-- **Salary Negotiation**
-  - **Summary**: Getting the compensation you deserve.
-- **Networking**
-  - **Summary**: Building professional relationships.
-- **Productivity**
-  - **Summary**: Managing your time and tasks at work.
-- **Upskilling**
-  - **Summary**: Learning new skills for career growth.
 
-## Finance & Money
-- **Investing 101**
-  - **Summary**: Basics of starting your investment journey.
-  - **Websites**:
-    - [Example Site](#): A great resource.
-  - **To Do**:
-    - Start an SIP.
-    - Open a Demat account.
-  - **Avoid**:
-    - Avoid panic selling.
-    - Don't invest in tips.
-- **Taxation**
-  - **Summary**: Understanding and filing your income taxes.
-  - **Websites**:
-    - [Example Site](#): A great resource.
-  - **To Do**:
-    - File before the deadline.
-    - Use Form 16.
-  - **Avoid**:
-    - Don't hide income.
-- **Credit Score**
-  - **Summary**: How to build and maintain a good score.
-- **Budgeting**
-  - **Summary**: Managing your income and expenses effectively.
-- **Insurance**
-  - **Summary**: Protecting yourself with Health and Term plans.
-
-
-## Home & Living
-- **Renting an Apartment**
-  - **Summary**: The A-Z of finding and renting a place.
-- **Basic Home Repairs**
-  - **Summary**: Fixing common issues around the house.
-- **Cooking Basics**
-  - **Summary**: Essential cooking skills for beginners.
-- **Home Organization**
-  - **Summary**: Decluttering and organizing your space.
-- **Managing Utilities**
-  - **Summary**: Handling electricity, water, and internet bills.
 
 ## Health & Wellness
 - **Emergency**
@@ -334,16 +283,6 @@ markmap:
     - [Menstrupedia](https://www.menstrupedia.com/)
     - [Project Baala](https://projectbaala.com/)
     - [Pinkishe](https://www.pinkishe.org/)
-- **Mental Health**
-  - **Summary**: Prioritizing your mental well-being.
-- **Physical Fitness**
-  - **Summary**: Incorporating exercise into your routine.
-- **Nutrition Basics**
-  - **Summary**: Understanding a balanced diet.
-- **Sleep Hygiene**
-  - **Summary**: Improving the quality of your sleep.
-- **Navigating Healthcare**
-  - **Summary**: Finding doctors and understanding insurance.
  
 ## Home Management
 - **Living Room**
@@ -584,7 +523,6 @@ markmap:
     - Sharmam Shawl Factory
     - Panditji Di Hatti in Chaura Bazar
 
-
   - Kolkata
     - Tri Art Gallary :material/location_on:
     - KCC Art gallery :material/location_on:
@@ -614,7 +552,6 @@ markmap:
     - La Martiniere College  :material/castle:
     - Chowk: Akbari Gate (for Chikan and zardozi works; Idrees Biryani) :material/restaurantlocation_on:
     - Lulu mall (hypermarket food court)  :material/restaurant:
-
 
   - Delhi
     - Hauz Khas :material/location_on:
@@ -714,52 +651,7 @@ markmap:
     - Keep documents in one place, use apps like Google Drive, Apple Wallet or Notion to store passport scans, visa, Aadhar card etc.
 
 
-## Government & Legal
-- **Aadhaar & PAN**
-  - **Summary**: Managing your essential identity documents.
-- **Passport Application**
-  - **Summary**: The process of getting your passport.
-- **Driver's License**
-  - **Summary**: Getting your learner's and permanent license.
-- **Voter ID**
-  - **Summary**: Registering to vote.
-- **Understanding Contracts**
-  - **Summary**: Basics of reading legal agreements.
 
-## Digital Life
-- **Cybersecurity**
-- **Cloud Storage**
-- **Email Etiquette**
-- **Social Media Presence**
-- **Digital Detox**
-
-## Social & Relationships
-- **Public Speaking**
-- **Conflict Resolution**
-- **Building Friendships**
-- **Dating & Romance**
-- **Family Dynamics**
-
-## Travel & Transport
-- **Booking Flights**
-- **Train Travel**
-- **Car Maintenance**
-- **Public Transport**
-- **Packing Smart**
-
-## Hobbies & Leisure
-- **Finding a Hobby**
-- **Reading for Pleasure**
-- **Learning an Instrument**
-- **Volunteering**
-- **Gardening**
-
-## Personal Growth
-- **Goal Setting**
-- **Habit Formation**
-- **Critical Thinking**
-- **Emotional Intelligence**
-- **Time Management**
 
 ## Wealth
 - Creating Wealth
@@ -929,4 +821,100 @@ markmap:
     - [Colorbar](https://www.colorbarcosmetics.com/)
     - [Sephora](https://sephora.in/)
 
- 
+
+<!-- 
+## Other
+- **Résumé Writing**
+  - **Summary**: Crafting a compelling résumé.
+- **Interview Skills**
+  - **Summary**: Nailing your job interviews.
+- **Salary Negotiation**
+  - **Summary**: Getting the compensation you deserve.
+- **Networking**
+  - **Summary**: Building professional relationships.
+- **Productivity**
+  - **Summary**: Managing your time and tasks at work.
+- **Upskilling**
+  - **Summary**: Learning new skills for career growth.
+- **Investing 101**
+  - **Summary**: Basics of starting your investment journey.
+  - **Websites**:
+    - [Example Site](#): A great resource.
+  - **To Do**:
+    - Start an SIP.
+    - Open a Demat account.
+  - **Avoid**:
+    - Avoid panic selling.
+    - Don't invest in tips.
+- **Taxation**
+  - **Summary**: Understanding and filing your income taxes.
+  - **Websites**:
+    - [Example Site](#): A great resource.
+  - **To Do**:
+    - File before the deadline.
+    - Use Form 16.
+  - **Avoid**:
+    - Don't hide income.
+- **Credit Score**
+  - **Summary**: How to build and maintain a good score.
+- **Budgeting**
+  - **Summary**: Managing your income and expenses effectively.
+- **Insurance**
+  - **Summary**: Protecting yourself with Health and Term plans.
+- **Renting an Apartment**
+  - **Summary**: The A-Z of finding and renting a place.
+- **Basic Home Repairs**
+  - **Summary**: Fixing common issues around the house.
+- **Cooking Basics**
+  - **Summary**: Essential cooking skills for beginners.
+- **Home Organization**
+  - **Summary**: Decluttering and organizing your space.
+- **Managing Utilities**
+  - **Summary**: Handling electricity, water, and internet bills.
+- **Mental Health**
+  - **Summary**: Prioritizing your mental well-being.
+- **Physical Fitness**
+  - **Summary**: Incorporating exercise into your routine.
+- **Nutrition Basics**
+  - **Summary**: Understanding a balanced diet.
+- **Sleep Hygiene**
+  - **Summary**: Improving the quality of your sleep.
+- **Navigating Healthcare**
+  - **Summary**: Finding doctors and understanding insurance.
+- **Aadhaar & PAN**
+  - **Summary**: Managing your essential identity documents.
+- **Passport Application**
+  - **Summary**: The process of getting your passport.
+- **Driver's License**
+  - **Summary**: Getting your learner's and permanent license.
+- **Voter ID**
+  - **Summary**: Registering to vote.
+- **Understanding Contracts**
+  - **Summary**: Basics of reading legal agreements.
+- **Cybersecurity**
+- **Cloud Storage**
+- **Email Etiquette**
+- **Social Media Presence**
+- **Digital Detox**
+- **Public Speaking**
+- **Conflict Resolution**
+- **Building Friendships**
+- **Dating & Romance**
+- **Family Dynamics**
+- **Booking Flights**
+- **Train Travel**
+- **Car Maintenance**
+- **Public Transport**
+- **Packing Smart**
+- **Finding a Hobby**
+- **Reading for Pleasure**
+- **Learning an Instrument**
+- **Volunteering**
+- **Gardening**
+- **Goal Setting**
+- **Habit Formation**
+- **Critical Thinking**
+- **Emotional Intelligence**
+- **Time Management** 
+-->
+
