@@ -1,11 +1,11 @@
 ---
 markmap:
-  initialExpandLevel: 
+  initialExpandLevel: 2
 ---
 
 # School of Adults
 
-## Career & Work <!-- markmap: fold -->
+## Career & Work
 - **Choosing Career**
   - [Mindler](https://www.mindler.com/careerlibrary)
   - [Truity](https://www.truity.com/search-careers/holland-code)
@@ -108,7 +108,7 @@ markmap:
 - **Upskilling**
   - **Summary**: Learning new skills for career growth.
 
-## Finance & Money <!-- markmap: fold -->
+## Finance & Money
 - **Investing 101**
   - **Summary**: Basics of starting your investment journey.
   - **Websites**:
@@ -136,7 +136,7 @@ markmap:
   - **Summary**: Protecting yourself with Health and Term plans.
 
 
-## Home & Living <!-- markmap: fold -->
+## Home & Living
 - **Renting an Apartment**
   - **Summary**: The A-Z of finding and renting a place.
 - **Basic Home Repairs**
@@ -148,7 +148,7 @@ markmap:
 - **Managing Utilities**
   - **Summary**: Handling electricity, water, and internet bills.
 
-## Health & Wellness <!-- markmap: fold -->
+## Health & Wellness
 - **Emergency**
   - [Call an ambulance - 102](tel:102)
   - [Hospitals Near Me](https://www.google.com/maps/search/hospitals+near+me/)
@@ -345,7 +345,7 @@ markmap:
 - **Navigating Healthcare**
   - **Summary**: Finding doctors and understanding insurance.
  
-## Home Management <!-- markmap: fold -->
+## Home Management
 - **Living Room**
   - Room Planner
     - [IKEA Kreativ](https://www.ikea.com/in/en/planners/design-your-dream-home-pub66945dd9/#0846f8c0-b20d-11eb-8bb5-a73a5787c6e2)
@@ -429,7 +429,7 @@ markmap:
     - [Nurserylive](https://nurserylive.com/)
     - [Amazon India](https://www.amazon.in/s/ref=mega_sv_s23_8_1_1_1?rh=i%3Alawngarden%2Cn%3A3638775031&ie=UTF8&bbn=2454176031)
 
-## Legal <!-- markmap: fold -->
+## Legal
 - Consult a Lawyer
   - [Lawrato](https://lawrato.com/)
   - [vakilsearch](https://vakilsearch.com/)
@@ -714,7 +714,7 @@ markmap:
     - Keep documents in one place, use apps like Google Drive, Apple Wallet or Notion to store passport scans, visa, Aadhar card etc.
 
 
-## Government & Legal <!-- markmap: fold -->
+## Government & Legal
 - **Aadhaar & PAN**
   - **Summary**: Managing your essential identity documents.
 - **Passport Application**
@@ -726,35 +726,35 @@ markmap:
 - **Understanding Contracts**
   - **Summary**: Basics of reading legal agreements.
 
-## Digital Life <!-- markmap: fold -->
+## Digital Life
 - **Cybersecurity**
 - **Cloud Storage**
 - **Email Etiquette**
 - **Social Media Presence**
 - **Digital Detox**
 
-## Social & Relationships <!-- markmap: fold -->
+## Social & Relationships
 - **Public Speaking**
 - **Conflict Resolution**
 - **Building Friendships**
 - **Dating & Romance**
 - **Family Dynamics**
 
-## Travel & Transport <!-- markmap: fold -->
+## Travel & Transport
 - **Booking Flights**
 - **Train Travel**
 - **Car Maintenance**
 - **Public Transport**
 - **Packing Smart**
 
-## Hobbies & Leisure <!-- markmap: fold -->
+## Hobbies & Leisure
 - **Finding a Hobby**
 - **Reading for Pleasure**
 - **Learning an Instrument**
 - **Volunteering**
 - **Gardening**
 
-## Personal Growth <!-- markmap: fold -->
+## Personal Growth
 - **Goal Setting**
 - **Habit Formation**
 - **Critical Thinking**
@@ -839,7 +839,7 @@ markmap:
     - [Financial Planning Platform](https://1finance.co.in/)
 
 
-## Content <!-- markmap: fold -->
+## Contents
 - **Books**
   - [Meet New Books ](https://www.meetnewbooks.com/)
   - Bookstores
@@ -862,7 +862,7 @@ markmap:
 - **Songs**
   - [AI-Powered Song Finder and Playlist Generator ](https://songslikex.com/)
 
-## Fashion <!-- markmap: fold -->
+## Fashion
 - Men
   - [Your Personal Fashion Assistant](https://heyalle.com/)
   - Fashion Hacks
