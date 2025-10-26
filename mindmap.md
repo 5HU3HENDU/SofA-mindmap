@@ -761,6 +761,84 @@ markmap:
 - **Emotional Intelligence**
 - **Time Management**
 
+## Wealth
+- Creating Wealth
+  - Side Hustle
+    - [Topmate](https://topmate.io/)
+    - [Gumroad](https://gumroad.com/)
+    - [Vistaprint](https://www.vistaprint.in/)
+    - [Blinkstore](https://blinkstore.in/)
+- Invest
+  - Learn to invest
+    - [Zerodha Varsity](https://zerodha.com/varsity/)
+  - Mutual Fund
+    - [MF Central](https://www.mfcentral.com/)
+    - [List of Mutual Funds](https://groww.in/mutual-funds/filter)
+  - Stocks
+    - [Zerodha](https://zerodha.com/)
+    - [Smallcase](https://www.smallcase.com/)
+    - [Screener](https://screener.in/)
+    - [Tijori](https://www.tijorifinance.com/)
+    - [All stocks](https://dhan.co/all-stocks-list/)
+    - [Market Research](https://www.futuremarketinsights.com/)
+
+  - IPOs
+    - [Upcoming & recent IPOs](https://groww.in/ipo)
+
+  - Fixed Deposits - FD
+    - [Stable Money](https://stablemoney.in/)
+
+  - Gold
+    - [India Gold](https://indiagold.co/digital-gold)
+
+  - Real Estate
+    - [Holiday Homes](https://www.alyf.in/)
+    - [Residential](https://www.indextap.com/)
+
+  - Pension
+    - [National Pension Scheme](https://enps.nsdl.com/eNPS/NationalPensionSystem.html)
+
+  - Provident Fund - PF
+    - [Employee Provident Fund - EPF](https://www.epfindia.gov.in/site_en/index.php)
+
+  - ULIP
+    - [Know About ULIP](https://www.etmoney.com/learn/insurance/all-you-need-to-know-about-unit-linked-insurance-plans/)
+  
+- Insurance
+  - [Term Life Insurance](https://joinditto.in/life-insurance/articles/term-insurance-101/)
+  - [All other insurance](https://www.hdfcergo.com/)
+- Taxes
+  - [Cleartax](https://cleartax.in/income-tax-efiling)
+- Loans
+  - Credit Score
+    - [CIBIL](https://www.cibil.com/freecibilscore)
+  - Credit Card
+    - [All Credit Cards](https://select.finology.in/credit-card)
+  - Loans
+    - Avoid taking an online loan
+    - Always contact your bank first
+    - [Loan Against Mutual Fund](https://voltmoney.in/)
+- Spends
+  - Handling Multiple Bank Accounts
+    - Keep a separate bank account for online transactions and day to day spends.
+    - From your salary bank account or other bank accounts, transfer 10k-20k to the online-only bank account as and when needed.
+    - Use credit card for transactions whenever possible to keep your bank accounts secure.
+    - This way, you are using online-only bank accounts + credit cards for your spends, while keeping your main bank accounts as secure as possible.
+    - This also helps you in budgeting to some extent.
+  - Spend Management
+    - Through Apps
+    - Using Excel
+    - By using one bank account/wallet for all spends
+  - Lending Money
+    - Do not lend money to your friends, relatives or anyone at all.
+    - If you still want to help, help them get a loan.
+  - Split Bills
+    - [Create a group in Google Pay](https://support.google.com/pay/india/answer/11420982?hl=en)
+    - And use it for tracking and splitting all the bills
+- Financial Planning
+    - [Financial Planning Platform](https://1finance.co.in/)
+
+
 ## Content <!-- markmap: fold -->
 - **Books**
   - [Meet New Books ](https://www.meetnewbooks.com/)
