@@ -345,8 +345,20 @@ markmap:
 - **Navigating Healthcare**
   - **Summary**: Finding doctors and understanding insurance.
  
-## Home Management
+## Home Management <!-- markmap: fold -->
 - **Living Room**
+  - Room Planner
+    - [IKEA Kreativ](https://www.ikea.com/in/en/planners/design-your-dream-home-pub66945dd9/#0846f8c0-b20d-11eb-8bb5-a73a5787c6e2)
+  - House Services
+    - [Urban Company](https://www.urbancompany.com/)
+    - [Guidance for perfect lighting](https://www.wiproconsumerlighting.com/custom-lighting-journey)
+  - Stores
+    - [IKEA](https://www.ikea.com/in/en/rooms/living-room/gallery/a-modern-living-room-bursting-with-life-pubceb77530/)
+    - [Urban Ladder](https://www.urbanladder.com/seating?src=g_topnav_living_seating)
+    - [Pepperfry](https://www.pepperfry.com/discover/living-room-furniture.html?srsltid=AfmBOorblfn5pKFwUg74fEdn2ToIBiK4hfM4iaOUHRb_lmTizqM-UxDA)
+  - Budget Furniture
+    - [OLX India](https://www.olx.in/en-in/furniture_c628)
+    - [Quikr](https://www.quikr.com/home-lifestyle/furniture+Home-Office-Furniture+Bangalore+x218f?sx=true)
 - **Bedroom**
   - Decluttering
     - Keep a laundry basket in the bedroom to avoid piling up of clothes on the the bed or a chair.
@@ -416,6 +428,291 @@ markmap:
     - [Ugaoo](https://www.ugaoo.com/)
     - [Nurserylive](https://nurserylive.com/)
     - [Amazon India](https://www.amazon.in/s/ref=mega_sv_s23_8_1_1_1?rh=i%3Alawngarden%2Cn%3A3638775031&ie=UTF8&bbn=2454176031)
+
+## Legal <!-- markmap: fold -->
+- Consult a Lawyer
+  - [Lawrato](https://lawrato.com/)
+  - [vakilsearch](https://vakilsearch.com/)
+  - [Legalkart](https://www.legalkart.com/)
+  - [MyAdvo](https://www.myadvo.in/)
+  - [Rest The Case](https://restthecase.com/)
+- Case Status
+  - [ecourt services](https://ecourts.gov.in/ecourts_home/)
+  - [High Court](https://hcservices.ecourts.gov.in/hcservices/main.php)
+  - [Supreme Court](https://www.sci.gov.in/)
+- Legal Information & Judgements
+  - [Personal Finance | Taxation | Employment Laws](https://www.youtube.com/@LabourLawAdvisor/videos)
+  - [Indiankanoon](https://indiankanoon.org/)
+  - [Nyaaya](https://nyaaya.org/)
+- Legal Aid and Rights Awareness
+  - [National Legal Services Authority (NALSA)](https://nalsa.gov.in/)
+  - [Probono India](https://www.probono-india.in/)
+
+## Life Events
+- Moving to a new city
+- Buying Home
+  - [Buying vs Renting Calculator](https://fi.money/calculators/rent-vs-buy-calculator)
+- Getting Married
+- Pregnancy
+
+## Life Skills
+- Decision Making
+- Problem Solving
+- Driving
+- Swimming
+
+## Managing People
+- Parents
+  - [Khyaal](https://www.khyaal.com/)
+- Friends
+- Colleagues
+- Partners
+- Kids
+- Relatives
+- Enemy
+
+## Pets
+- [Vet Shops](https://www.google.com/maps/search/Vet+Shops+Near+Me)
+
+- Cats
+  - Best Cat Food Brands
+    - [Royal Canin](https://www.royalcanin.com/in/cats/products/retail-products)
+    - [Purina Pro Plan](https://www.purina.in/cat/cat-food)
+    - [Farmina Matisse](https://www.farmina.com/in/eshop-c-Cat-food.html?_gl=1*12x562r*_up*MQ..*_gs*MQ..*_ga*MTkwODQ1ODE4NC4xNzQ4MjQ3MjAy*_ga_CHZ53B5H79*czE3NDgyNDcyMDEkbzEkZzAkdDE3NDgyNDcyMTAkajAkbDAkaDE3MTIyMzY3MzEkZFJxQnFMeDVEaWNaZDlpSk9hbkhHNE5WTTkweWxkSERtYmc.&gclid=Cj0KCQjwotDBBhCQARIsAG5pinMtS-5qgdX29aI13MQSI9RvcRkDv4qcn8xosomUM1jvHP18F-CUp5AaAgCOEALw_wcB&gbraid=0AAAAABjG6dqu1snDZe0EeZhjFf7PBeB3u)
+    - [Whiskas](https://www.whiskas.in/our-products/wet-cat-food)
+    - [Sheba](https://www.sheba.in/)
+    - [Me-O](https://www.meocatfood.com/?srsltid=AfmBOorJg6tldgaEbwVHg58OuW_Bp4C-LxuEDoo7AD4v9YgO3odqH7ao)
+    - [Kennel](https://kennelkitchen.com/collections/cat-food)
+    - [Drools](https://drools.com/for-cats/)
+    - [Kitty Yum](https://kittyyums.com/products/)
+  - Eating habits
+    - Create a regular feeding schedule and stick to it, as cats love to follow routine.
+    - Cats are majorly dehydrated. To overcome this, wet food mixed with water and fresh water in a clean bowl can resolve this issue.
+  - Grooming Brands
+    - [HUFT](https://headsupfortails.com/)
+    - [Trixie](https://www.trixie.de/en/productworld/cat)
+    - [Petkin](https://www.petkin.com/Cat-Care-Products-s/1821.htm)
+    - [Himalaya](https://himalayawellness.in/collections/companion-care)
+    - [Beaphar](https://www.beaphar.com/cat)
+  - Grooming Tips
+    - Brushing
+      - Short-hair: once a week
+      - Long-haired: 3-4 times a week (to prevent tangling and matting)
+    - Litter cleaning
+      - Scoop daily
+      - Change litter every 2-3 weeks.
+    - Regular cleaning
+      - Clean food tray and water bowl daily.
+      - Vacuum regularly or use lint roller to control shedding.
+  - Online Stores
+    - [PetsWorld](https://petsworld.in/collections/cats)
+    - [HUFT](https://headsupfortails.com/?srsltid=AfmBOoo3Tte9oS6bKi_OFWinaKX3yQmT4YMixnsQml5rNklzYalHUnoU)
+    - [Petsy](https://petsy.online/collections/cat-supplies)
+    - [AmazonIndia](https://www.amazon.in/Cats-Supplies/b/ref_=catsupseoain?ie=UTF8&node=4771341031)
+    - [Flipkart](https://www.flipkart.com/pet-supplies/cats/pr?sid=p3t,0mo)
+    - [BearHugs](https://bearhugsofficial.com/?srsltid=AfmBOoqIXa_Jh-zq3pxYMAPEAGJl4bahnWf4WaOAkHxpb_ggHih7_vou)
+    - [PetShopIndia](https://petshopindia.com/Cat)
+  - Cat Adoption Platform
+    - [ThePetNest](https://thepetnest.com/adopt-a-cat#/)
+    - [CUPA Bangalore](https://cupabangalore.org/)
+    - [RESQ Charitable Trust](https://www.resqct.org/)
+    - [Blue Cross of India](https://bluecrossofindia.org/Adopt-Foster.html)
+- Dogs
+  - Best Dog Food Brands
+    - [Royal Canin](https://www.royalcanin.com/in/dogs/products/retail-products)
+    - [Pedigree](https://www.pedigree.in/)
+    - [Farmina N&D](https://www.farmina.com/in/eshop-d-Dog-food.html?_gl=1*1fd6fgg*_up*MQ..*_gs*MQ..*_ga*OTg4Njg4OTQ3LjE3NDgyNTE4Njc.*_ga_CHZ53B5H79*czE3NDgyNTE4NjckbzEkZzAkdDE3NDgyNTE5NjgkajAkbDAkaDE4NTk5NDY5NTMkZDc5SWJweTNnSFpySS1kWDI4ajY2bnptNmNZUm1XSk04T2c.&gclid=Cj0KCQjwotDBBhCQARIsAG5pinPc0xE9jkZ0SleQ9-YCCzmdQ_fgCveca6MO8KoxM5vYI5eOG1cODgAaAveGEALw_wcB&gbraid=0AAAAABjG6dqu1snDZe0EeZhjFf7PBeB3u)
+    - [PurePet](https://www.purepet.in/products.html)
+    - [Fidele](https://fidele.co/?srsltid=AfmBOoqUQaXlWPF_iTO-7gGmwA-QyocnPKij5t2CSSti-mwqL-HhnvFi)
+    - [Arden Grange](https://www.ardengrange.com/dogs/dryfood/puppy.html)
+    - [Drools](https://drools.com/for-dogs/)
+  - Grooming Tips
+    - Clean food tray and water bowl daily.
+    - Take your dogs for a walk frequently.
+    - Maintain a regular feeding time.
+    - Vacuum regularly or use roller to control shedding.
+  - Grooming Brands
+    - [HUFT](https://headsupfortails.com/?srsltid=AfmBOoo3Tte9oS6bKi_OFWinaKX3yQmT4YMixnsQml5rNklzYalHUnoU)
+    - [Trixie](https://www.trixie.de/en/dog)
+    - [Petkin](https://www.petkin.com/Dog-Care-Products-s/1820.htm)
+    - [Beaphar](https://www.beaphar.com/dog)
+    - [EarthBath](https://www.justdogsstore.com/product-category/brands/earthbath/?srsltid=AfmBOoqQmzbvTpjFV6mJH9ZYzBXWK5CcR-rt7lbl6oM1JZSg_WC5DBYQ)
+    - [Himalaya Pet Care](https://himalayawellness.in/collections/companion-care)
+  - Online Stores
+    - [SuperTails](https://supertails.com/pages/dog-products)
+    - [HUFT](https://headsupfortails.com/?srsltid=AfmBOoo-7p4OirPTpHZSKatxCJUhcO9zDFhVAR08A98CM58oIi2lOgmi)
+    - [JustDogs](https://www.justdogsstore.com/)
+    - [AmazonIndia](https://www.amazon.in/Dogs-Supplies/b/ref_=dogsupseoain?ie=UTF8&node=4771342031)
+    - [Petsy](https://petsy.online/collections/dogs)
+    - [PetsWorld](https://petsworld.in/collections/dogs)
+    - [Flipkart](https://www.flipkart.com/pet-supplies/dogs/pr?sid=p3t,ea3)
+    - [PawsIndia](https://pawsindia.com/collections/dog)
+  - Dog Adoption Platform
+    - [RESQ Charitable Trust](https://www.resqct.org/)
+    - [Blue Cross Of India](https://bluecrossofindia.org/)
+    - [Red Paws Rescue](https://www.redpawsrescue.com/adopt)
+    - [CUPA Banglore](https://cupabangalore.org/adopt/)
+    - [Stray Animal Foundation India](https://strayanimalfoundationindia.org/adopt/)
+    - [Animal Aid Unlimited](https://www.animalaidunlimited.org/how-to-help/adopt-an-animal/)
+
+
+## Technology
+
+## Travel
+- Itinerary
+  - Planners
+    - [Travlcase](https://www.travelcase.club/)
+    - [Roam Around](https://www.roamaround.io/)
+    - [Wonderplan](https://wonderplan.ai/)
+    - [Maya](https://www.livetheworld.com/maya/chat)
+    - [Vacay](https://www.usevacay.com/chatbot)
+    - [WikiVoyage](https://en.m.wikivoyage.org/wiki/Main_Page)
+  - Train vs Flight
+    - If travel by train takes around 8 hours and one can get the night train, then prefer train over flight because one can easily spend the night in the train journey.
+    - If money is not a concern, then obviously flight is the preferred choice.
+  - Travel Packages
+    - [IRCTC Tourism](https://www.irctctourism.com/)
+    - [YHA](https://www.yhaindia.org/)
+    - [No Footprints](https://www.nfpexplore.com/)
+    - [Sterling Holidays](https://www.sterlingholidays.com/)
+    - [Country Club](https://countryclubindia.net/)
+    - [Skyway](https://www.skywaytour.com/)
+- Places
+  - Ludhiana
+    - Chawala Chicken
+    - Any Parantha Shop near Clock Tower
+    - Sharmam Shawl Factory
+    - Panditji Di Hatti in Chaura Bazar
+
+
+  - Kolkata
+    - Tri Art Gallary :material/location_on:
+    - KCC Art gallery :material/location_on:
+    - Asia’s largest flower market :material/location_on:
+    - Tram Ride :material/location_on:
+    - Tiretta Bazaar :material/location_on:
+    - James Prinsep Monument & Ghat :material/location_on:
+    - Mishti Doi :material/restaurant:
+    - Nolen gur sandesh :material/restaurant:
+    - KC Das Rosogolla :material/restaurant:
+    - Park street :material/location_on:
+
+  - Lucknow
+    - The Residency :material/location_on:
+    - National Botanical Garden :material/park:
+    - Hazratganj :material/restaurantlocation_on:
+    - Dilkusha Garden :material/park:
+    - Aminabad Bazaar :material/restaurantlocation_on:
+    - Ratti Lal(Khasta Kachodi) :material/restaurant:
+    - Tundey kebabi :material/restaurant:
+    - Raheem's Kulche Nihari :material/restaurant:
+    - Ghanta Ghar :material/location_on:
+    - Hanumant Dham :material/location_on:
+    - Bada Imambara :material/castle:
+    - Janeshwar Mishra Park (Asia's Largest Park) :material/Park:
+    - Rumi Darwaza  :material/location_on:
+    - La Martiniere College  :material/castle:
+    - Chowk: Akbari Gate (for Chikan and zardozi works; Idrees Biryani) :material/restaurantlocation_on:
+    - Lulu mall (hypermarket food court)  :material/restaurant:
+
+
+  - Delhi
+    - Hauz Khas :material/location_on:
+    - Majnu ka Tilla(Tibetan Food) :material/restaurant:
+    - Jama Masjid :material/location_on:
+    - Dilli Haat :material/restaurantlocation_on:
+    - Qutub Minar :material/location_on:
+    - Red Fort :material/fort:
+    - Humayun's tomb :material/location_on:
+    - Swaminarayan Akshardham :material/location_on:
+    - Lotus Temple :material/location_on:
+    - Janpath Market :material/location_on:
+    - India Gate :material/location_on:
+  - Jodhpur
+    - Umaid Bhawan :material/location_on:
+    - Jaswant Thada :material/castle:
+    - Rao Jodha Desert Rock Park :material/location_on:
+    - Mehrangarh Fort(Ziplining) :material/fort:
+    - Chaudhary - Mirchi Pakoda :material/restaurant:
+    - Janta Sweet Home - kachodi/Jaleba :material/restaurant:
+    - Mandore Garden :material/location_on:
+    - Blue City Walk near Singhvi Haveli :material/location_on:
+    - Toorji ka Jhalra Bavdi :material/location_on:
+    - Arora Chat- Palak Patta Chat :material/restaurant:
+    - Shri Misri Lal-Lassi :material/restaurant:
+    - Book Cafe (open until 3am) :material/restaurant:
+    - Singhoria Hills :material/location_on:
+    - Ghanta Ghar/Sardar market :material/restaurantlocation_on:
+    - Nehru park( Bun makhan, paneer pakoda) :material/restaurantpark:
+    - Ghasmandi (rawat ka Munim, Ram Namkeen wala) :material/restaurantlocation_on:
+
+  - Amritsar
+    - Kesar Dhaba :material/restaurant:
+    - Brothers dhaba (Prahvan da dhaba) :material/restaurant:
+    - Bhai Kulwant Singh Kulchey Wale :material/restaurant:
+    - Haveli :material/restaurant:
+    - Makhan Fish and Chicken Corner :material/restaurant:
+    - A-one Kulfa :material/icecream:
+    - Masala darbar :material/restaurant:
+    - Ramdas Jalebi Wale :material/restaurant:
+    - Gian Chand di lassi :material/restaurant:
+  - Surat
+    - Surat Fort :material/fort:
+    - Gopal Locho (Sev Khamanis)  :material/restaurant:
+    - Chirag Nankhatai :material/restaurant:
+    - Dabelis Fafdas :material/restaurant:
+    - Dumas beach (black sand) :material/location_on:
+    - Gopi talav :material/location_on:
+    - Bombay Market :material/location_on:
+    - Baroda Market (clothes at cheap prices):material/location_on:
+    - Swaminarayan Temple :material/location_on:
+    - Shah Jamnadas Ghariwala (Gharis) :material/restaurant:
+
+
+- Stays
+  - Hotels
+    - [Moustache](https://moustachescapes.com/)
+    - [Bloom](https://staybloom.com/)
+    - [FabHotels](https://www.fabhotels.com/)
+    - [Postcards](https://www.postcardresorts.com/)
+
+  - Hostels
+    - [HostelWorld](https://www.hostelworld.com/)
+    - [Zolo](https://zolostays.com/)
+    - [Zostel](https://www.zostel.com/)
+    - [Hosteller](https://www.thehosteller.com/)
+
+- Things to Carry
+  - WIP 🔴
+- Bus
+  - [Book Bus](https://www.flixbus.in/)
+
+- Cab
+  - [Goa](https://www.goamiles.com/)
+- Train
+  - Booking Ticket
+    - [IRCTC](https://www.irctc.co.in/nget/train-search)
+    - [AskDisha](https://askdisha.irctc.co.in/)
+  - Tracking
+    - [Train Status](https://www.google.com/search?q=Train+Status)
+    - [National Train Enquiry System](https://enquiry.indianrail.gov.in/mntes/)
+  - Food Inside Train
+    - [Menu](https://menurates.irctc.co.in/)
+    - [Zoop](https://www.zoopindia.com/)
+- Flight
+  - [Book Flights](https://www.ixigo.com/flights)
+  - [Track Flight](https://www.ixigo.com/flight-status)
+  - [Flight Seat Map](https://www.seatguru.com/findseatmap/findseatmap.php)
+  - [Airport Services](https://www.adanione.com/services)
+  - [Aviation Safety Database](https://asn.flightsafety.org/asndb/types/DB)
+  - Things to Avoid
+    - Do not book flight tickets and hotels before your visa is approved.
+    - Avoid booking non-refundable tickets for first-time international travel.
+    - Never rely on verbal confirmations, document everything using email or receipt.
+  - Things to Know
+    - Store your boarding pass on [Digiyatra](https://digiyatrafoundation.com/) for smooth airport entry to boarding gates. It keeps track of all your flight tickets too.
+    - Keep documents in one place, use apps like Google Drive, Apple Wallet or Notion to store passport scans, visa, Aadhar card etc.
+
 
 ## Government & Legal <!-- markmap: fold -->
 - **Aadhaar & PAN**
