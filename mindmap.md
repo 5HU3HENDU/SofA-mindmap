@@ -507,8 +507,10 @@ markmap:
     - [Maya](https://www.livetheworld.com/maya/chat)
     - [Vacay](https://www.usevacay.com/chatbot)
     - [WikiVoyage](https://en.m.wikivoyage.org/wiki/Main_Page)
+    - And off course ChatGPT, Perplexity & Gemini
   - Train vs Flight
-    - If travel by train takes around 8 hours and one can get the night train, then prefer train over flight because one can easily spend the night in the train journey.
+    - If travel by train takes around 8 hours and one can get the night train,
+    - then prefer train over flight because one can easily spend the night in the train journey, keeping safety in the mind.
     - If money is not a concern, then obviously flight is the preferred choice.
   - Travel Packages
     - [IRCTC Tourism](https://www.irctctourism.com/)
@@ -822,6 +824,15 @@ markmap:
     - [Colorbar](https://www.colorbarcosmetics.com/)
     - [Sephora](https://sephora.in/)
 
+## Social Life
+- Offline Events
+<!-- - <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"> Some Checkbox -->
+
+
+## Other Adulting Resources
+- Books
+- Websites
+- Newsletters
 
 <!-- 
 ## Other
