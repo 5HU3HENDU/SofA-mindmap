@@ -82,7 +82,7 @@ markmap:
   - [Python, Machine Learning, Deep Learning](https://jovian.com/)
 - **Career Escalator**
   - [ Roadmaps for Developers](https://roadmap.sh/)
- 
+
 - **Dealing with Work Environment**
 - **Resignation**
   - **Retention vs Resignation**
@@ -287,7 +287,7 @@ markmap:
     - [Menstrupedia](https://www.menstrupedia.com/)
     - [Project Baala](https://projectbaala.com/)
     - [Pinkishe](https://www.pinkishe.org/)
- 
+
 ## Home Management
 - **Living Room**
   - Room Planner
@@ -321,7 +321,7 @@ markmap:
   - Stores
     - [IKEA](https://www.ikea.com/in/en/rooms/bedroom/)
     - [Sleepyhead](https://mysleepyhead.com/)
-  
+
 - **Kitchen**
   - Must-haves
     - Pressure cooker, Kadhai, tava, saucepan
@@ -393,6 +393,7 @@ markmap:
 
 ## Life Events
 - **Moving to a new city**
+- **Shifting your stuffs**
 - **Buying Home**
   - [Buying vs Renting Calculator](https://fi.money/calculators/rent-vs-buy-calculator)
 - **Getting Married**
@@ -501,6 +502,17 @@ markmap:
 
 
 ## Technology
+- Important Devices
+  - Mobile Phone
+  - Laptop
+  - Earphone
+  - Power Bank
+  - SSD
+- Privacy
+- Getting your data
+  - [My Google's data](https://takeout.google.com/)
+
+
 
 ## Travel
 - **Itinerary**
@@ -702,7 +714,7 @@ markmap:
 
   - ULIP
     - [Know About ULIP](https://www.etmoney.com/learn/insurance/all-you-need-to-know-about-unit-linked-insurance-plans/)
-  
+
 - **Insurance**
   - [Term Life Insurance](https://joinditto.in/life-insurance/articles/term-insurance-101/)
   - [All other insurance](https://www.hdfcergo.com/)
@@ -830,13 +842,31 @@ markmap:
 
 ## Social Life
 - **Offline Events**
-<!-- - <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"> Some Checkbox -->
+  - [Luma](https://luma.com/)
+  - [Bangalore Specific](https://blr.today/)
+<!-- 
+- <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"> Some Checkbox
+-->
+
+## Succession Planning
+- **Property Distribution**
+- **Will Management**
+- **Getting Care**
+- **Knowledge Transfer**
+
+
+
 
 
 ## Other Adulting Resources
 - **Books**
 - **Websites**
 - **Newsletters**
+
+## About SofA
+- Philosophy
+- Community
+- Contributors
 
 <!-- 
 ## Other
@@ -932,4 +962,20 @@ markmap:
 - **Critical Thinking**
 - **Emotional Intelligence**
 - **Time Management** 
+https://skyteam.traveldoc.aero/
+https://openstax.org/
+https://www.open.edu/openlearn/
+kids https://www.proeves.com/
+https://theyseeyourphotos.com/
+https://www.incredibleindia.gov.in/en/plan-your-trip/travel-partners
+https://www.indiantravelconsultants.com/travelplans/journey-to-indian-roots/
+https://www.raascap.com/
+https://www.gicouncil.in/news-media/gic-in-the-news/bima-sugam/
+https://www.tijorialerts.com/#pricing
+https://www.dezerv.in/portfolio-management-services/#problem
+https://www.lesswrong.com/posts/HJeD6XbMGEfcrx3mD/100-ways-to-live-better
+
+
+
+
 -->
