@@ -39,6 +39,8 @@ markmap:
     - I can join early.
     - My current salary is way less than market standard.
 - **Job Websites**
+  - SofA's job search tool 🔴
+  - Using AI based browsers
   - [Pesto Tech](https://pesto.tech/)
   - [Builtin](https://builtin.com/)
   - [Workassist](https://workassist.in/)
@@ -80,6 +82,8 @@ markmap:
   - [Python, Machine Learning, Deep Learning](https://jovian.com/)
 - **Career Escalator**
   - [ Roadmaps for Developers](https://roadmap.sh/)
+ 
+- **Dealing with Work Environment**
 - **Resignation**
   - **Retention vs Resignation**
     - Once you have the final offer letter, you can choose either to resign in the current organization or to ask your manager about retention.
@@ -187,7 +191,7 @@ markmap:
     - [Thyrocare Aarogyam](https://emailer.thyrocare.com/DM_landing_page/DM_Emailer.aspx?val=UFJPSjEwNTQyNTQsUFJPSjEwNTQyNTYsUFJPSjEwNTQyNTcsUFJPSjEwNTQyNTgsUFJPSjEwNTQyNTksUFJPSjEwNTQyNjAsUFJPSjEwNTQyNjEsUFJPSjEwNTQyNjM=&dQsQa_code=7774834721&gad_source=1&gad_campaignid=21475695119&gbraid=0AAAAADM2NvE7wBH6a8oexZj52yMYgY22h&gclid=Cj0KCQjwjJrCBhCXARIsAI5x66VhBt3iYCQdNKb4MaY0qumqebuImI5sMNTH2gxToCGR8xclFuXJwXsaAlx-EALw_wcB)
     - [Apollo Master Health Checkup](https://www.apollohospitals.com/region/bangalore/health-checkup-packages/)
     - [Max Healthcare](https://www.maxhealthcare.in/preventive-health-plans#)
-- Exercise
+- **Exercise**
   - ToDo
     - Walking 
     - Running
@@ -369,52 +373,52 @@ markmap:
     - [Amazon India](https://www.amazon.in/s/ref=mega_sv_s23_8_1_1_1?rh=i%3Alawngarden%2Cn%3A3638775031&ie=UTF8&bbn=2454176031)
 
 ## Legal
-- Consult a Lawyer
+- **Consult a Lawyer**
   - [Lawrato](https://lawrato.com/)
   - [vakilsearch](https://vakilsearch.com/)
   - [Legalkart](https://www.legalkart.com/)
   - [MyAdvo](https://www.myadvo.in/)
   - [Rest The Case](https://restthecase.com/)
-- Case Status
+- **Case Status**
   - [ecourt services](https://ecourts.gov.in/ecourts_home/)
   - [High Court](https://hcservices.ecourts.gov.in/hcservices/main.php)
   - [Supreme Court](https://www.sci.gov.in/)
-- Legal Information & Judgements
+- **Legal Information & Judgements**
   - [Personal Finance | Taxation | Employment Laws](https://www.youtube.com/@LabourLawAdvisor/videos)
   - [Indiankanoon](https://indiankanoon.org/)
   - [Nyaaya](https://nyaaya.org/)
-- Legal Aid and Rights Awareness
+- **Legal Aid and Rights Awareness**
   - [National Legal Services Authority (NALSA)](https://nalsa.gov.in/)
   - [Probono India](https://www.probono-india.in/)
 
 ## Life Events
-- Moving to a new city
-- Buying Home
+- **Moving to a new city**
+- **Buying Home**
   - [Buying vs Renting Calculator](https://fi.money/calculators/rent-vs-buy-calculator)
-- Getting Married
-- Pregnancy
+- **Getting Married**
+- **Pregnancy**
 
 ## Life Skills
-- Decision Making
+- **Decision Making**
   - [Untools](https://untools.co/)
-- Problem Solving
-- Driving
-- Swimming
+- **Problem Solving**
+- **Driving**
+- **Swimming**
 
 ## Managing People
-- Parents
+- **Parents**
   - [Khyaal](https://www.khyaal.com/)
-- Friends
-- Colleagues
-- Partners
-- Kids
-- Relatives
-- Enemy
+- **Friends**
+- **Colleagues**
+- **Partners**
+- **Kids**
+- **Relatives**
+- **Enemy**
 
 ## Pets
 - [Vet Shops](https://www.google.com/maps/search/Vet+Shops+Near+Me)
 
-- Cats
+- **Cats**
   - Best Cat Food Brands
     - [Royal Canin](https://www.royalcanin.com/in/cats/products/retail-products)
     - [Purina Pro Plan](https://www.purina.in/cat/cat-food)
@@ -457,7 +461,7 @@ markmap:
     - [CUPA Bangalore](https://cupabangalore.org/)
     - [RESQ Charitable Trust](https://www.resqct.org/)
     - [Blue Cross of India](https://bluecrossofindia.org/Adopt-Foster.html)
-- Dogs
+- **Dogs**
   - Best Dog Food Brands
     - [Royal Canin](https://www.royalcanin.com/in/dogs/products/retail-products)
     - [Pedigree](https://www.pedigree.in/)
@@ -499,7 +503,7 @@ markmap:
 ## Technology
 
 ## Travel
-- Itinerary
+- **Itinerary**
   - Planners
     - [Travlcase](https://www.travelcase.club/)
     - [Roam Around](https://www.roamaround.io/)
@@ -519,7 +523,7 @@ markmap:
     - [Sterling Holidays](https://www.sterlingholidays.com/)
     - [Country Club](https://countryclubindia.net/)
     - [Skyway](https://www.skywaytour.com/)
-- Places
+- **Places**
   - Ludhiana
     - Chawala Chicken
     - Any Parantha Shop near Clock Tower
@@ -609,7 +613,7 @@ markmap:
     - Shah Jamnadas Ghariwala (Gharis) :material/restaurant:
 
 
-- Stays
+- **Stays**
   - Hotels
     - [Moustache](https://moustachescapes.com/)
     - [Bloom](https://staybloom.com/)
@@ -622,14 +626,14 @@ markmap:
     - [Zostel](https://www.zostel.com/)
     - [Hosteller](https://www.thehosteller.com/)
 
-- Things to Carry
+- **Things to Carry**
   - WIP 🔴
-- Bus
+- **Bus**
   - [Book Bus](https://www.flixbus.in/)
 
-- Cab
+- **Cab**
   - [Goa](https://www.goamiles.com/)
-- Train
+- **Train**
   - Booking Ticket
     - [IRCTC](https://www.irctc.co.in/nget/train-search)
     - [AskDisha](https://askdisha.irctc.co.in/)
@@ -639,7 +643,7 @@ markmap:
   - Food Inside Train
     - [Menu](https://menurates.irctc.co.in/)
     - [Zoop](https://www.zoopindia.com/)
-- Flight
+- **Flight**
   - [Book Flights](https://www.ixigo.com/flights)
   - [Track Flight](https://www.ixigo.com/flight-status)
   - [Flight Seat Map](https://www.seatguru.com/findseatmap/findseatmap.php)
@@ -652,18 +656,18 @@ markmap:
   - Things to Know
     - Store your boarding pass on [Digiyatra](https://digiyatrafoundation.com/) for smooth airport entry to boarding gates. It keeps track of all your flight tickets too.
     - Keep documents in one place, use apps like Google Drive, Apple Wallet or Notion to store passport scans, visa, Aadhar card etc.
-
+  - When flights get cancelled
 
 
 
 ## Wealth
-- Creating Wealth
+- **Creating Wealth**
   - Side Hustle
     - [Topmate](https://topmate.io/)
     - [Gumroad](https://gumroad.com/)
     - [Vistaprint](https://www.vistaprint.in/)
     - [Blinkstore](https://blinkstore.in/)
-- Invest
+- **Invest**
   - Learn to invest
     - [Zerodha Varsity](https://zerodha.com/varsity/)
   - Mutual Fund
@@ -699,12 +703,12 @@ markmap:
   - ULIP
     - [Know About ULIP](https://www.etmoney.com/learn/insurance/all-you-need-to-know-about-unit-linked-insurance-plans/)
   
-- Insurance
+- **Insurance**
   - [Term Life Insurance](https://joinditto.in/life-insurance/articles/term-insurance-101/)
   - [All other insurance](https://www.hdfcergo.com/)
-- Taxes
+- **Taxes**
   - [Cleartax](https://cleartax.in/income-tax-efiling)
-- Loans
+- **Loans**
   - Credit Score
     - [CIBIL](https://www.cibil.com/freecibilscore)
   - Credit Card
@@ -713,7 +717,7 @@ markmap:
     - Avoid taking an online loan
     - Always contact your bank first
     - [Loan Against Mutual Fund](https://voltmoney.in/)
-- Spends
+- **Spends**
   - Handling Multiple Bank Accounts
     - Keep a separate bank account for online transactions and day to day spends.
     - From your salary bank account or other bank accounts, transfer 10k-20k to the online-only bank account as and when needed.
@@ -730,7 +734,7 @@ markmap:
   - Split Bills
     - [Create a group in Google Pay](https://support.google.com/pay/india/answer/11420982?hl=en)
     - And use it for tracking and splitting all the bills
-- Financial Planning
+- **Financial Planning**
     - [Financial Planning Platform](https://1finance.co.in/)
 
 
@@ -758,7 +762,7 @@ markmap:
   - [AI-Powered Song Finder and Playlist Generator ](https://songslikex.com/)
 
 ## Fashion
-- Men
+- **Men**
   - [Your Personal Fashion Assistant](https://heyalle.com/)
   - Fashion Hacks
     - Use collar stays or a trimmed paper/plastic strip to keep shirt collars crisp.
@@ -784,7 +788,7 @@ markmap:
     - [H&M India](https://www2.hm.com/en_in/men/new-arrivals/view-all.html)
     - [Ajio](https://www.ajio.com/shop/men)
     - [Thesouledstore](https://www.thesouledstore.com/men)
-- Women
+- **Women**
   - [Your Personal Fashion Assistant](https://heyalle.com/)
   - Fashion Hacks
     - [Know your Shape](https://www.stitchfix.com/women/blog/fashion-tips/find-fit-for-your-body-type/?srsltid=AfmBOophAwRvAHwGXHL9yhoafoM_YwaPEpOvvZirPcuWRE66SuwwD-e6)
@@ -825,14 +829,14 @@ markmap:
     - [Sephora](https://sephora.in/)
 
 ## Social Life
-- Offline Events
+- **Offline Events**
 <!-- - <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"> Some Checkbox -->
 
 
 ## Other Adulting Resources
-- Books
-- Websites
-- Newsletters
+- **Books**
+- **Websites**
+- **Newsletters**
 
 <!-- 
 ## Other
